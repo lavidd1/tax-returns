@@ -1,0 +1,13 @@
+name: tax-returns
+title: tax-returns
+username:
+account: laviddi
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7911286
+bundleId: 6649462
+url: https://laviddi.shinyapps.io/tax-returns/
+when: 1671327590.23426
+lastSyncTime: 1671327590.23427
+asMultiple: FALSE
+asStatic: FALSE
